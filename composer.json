@@ -4,7 +4,7 @@
     "description": "dcat后台文章扩展",
     "type": "library",
     "keywords": ["dcat-admin", "extension", "cms", "article"],
-    "homepage": "https://github.com/dcat-admin/cms-article",
+    "homepage": "https://github.com/itfengfanzhe/dcat-cms-article.git",
     "license": "MIT",
     "authors": [
         {
